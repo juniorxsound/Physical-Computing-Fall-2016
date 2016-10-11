@@ -9,4 +9,4 @@ from the directory and update the Arduino port from the ```setup();``` function
 ```
 serial.open('YOUR_ARDUINO_PORT');
 ```
-
+![Breadboard](https://github.com/juniorxsound/Physical-Computing-Fall-2016/blob/master/Serial%20Drum%20Machine/breadboard.png "breadboard image")
