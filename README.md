@@ -3,7 +3,7 @@ This repo holds the assignments handed for Physical Computing course in ITP, NYU
 
 1. [Moisture Sensor](https://github.com/juniorxsound/Physical-Computing-Fall-2016/tree/master/Moisture%20Sensor)
 2. [Synthesis](https://github.com/juniorxsound/Physical-Computing-Fall-2016/tree/master/Synthesis)
-3. [Serial Drum Machine](https://github.com/juniorxsound/ICM-Fall-2016-/tree/master/3D_Web_Audio_Visualiser)
+3. [Serial Drum Machine](https://github.com/juniorxsound/Physical-Computing-Fall-2016/tree/master/Serial%20Drum%20Machine)
 
 ![ITP](https://github.com/juniorxsound/ICM-Fall-2016-/blob/master/assets/itp_logo.png "ITP Logo")
 
