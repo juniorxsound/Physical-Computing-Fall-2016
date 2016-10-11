@@ -1,5 +1,5 @@
 # Serial Drum Machine
-For this exercise I used [p5.serialport](https://github.com/vanevery/p5.serialport) to build a simple drum machine that uses [p5.sound](https://github.com/processing/p5.js-sound) osiclators to produce drum sounds.
+For this exercise I used [p5.serialport](https://github.com/vanevery/p5.serialport) to build a simple drum machine that uses [p5.sound](https://github.com/processing/p5.js-sound) (web audio) oscilators to produce drum sounds.
 
 To use the app you have to:
 
