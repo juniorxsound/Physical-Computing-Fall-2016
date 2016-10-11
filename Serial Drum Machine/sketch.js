@@ -83,12 +83,12 @@ function gotData() {
 
         //Trigger the right drum
       if(currentString == '1'){
-              kick.amp(0.8);
+         kick.amp(0.8);
 
-              //Release note
-              setTimeout(function(){
-                kick.amp(0.0, 0.1);
-              }, 100);
+         //Release note
+         setTimeout(function(){
+          kick.amp(0.0, 0.1);
+         }, 100);
       }
       if(currentString == '2'){
         snare.amp(0.8);
